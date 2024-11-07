@@ -1,4 +1,4 @@
- # ![Icon](https://example.com/path/to/icon.png)
+ # [![Icon](https://example.com/path/to/icon.png)](https://ibb.co/MMxcGnf) 
  # Expense Data Analysis
 
 This project is designed to analyze expense data to uncover trends, categorize spending, and provide financial insights. The analysis includes data preprocessing, data visualization, and trend analysis using Ms excel.
