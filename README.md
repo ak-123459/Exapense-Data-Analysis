@@ -2,9 +2,9 @@
   <a href="https://ibb.co/MMxcGnf"><img src="https://i.ibb.co/MMxcGnf/money-bag.png" alt="money-bag" border="0" width="100" /></a>
 
 
-<div >
+<div align="center"> 
 
-  **Expense Data Analysis**
+  ## Expense Data Analysis
 
 </div>
 
