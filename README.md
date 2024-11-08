@@ -18,9 +18,7 @@ This project is designed to analyze expense data to uncover trends, categorize s
 
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
+- [Dataset](#dataset)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,5 +37,13 @@ Before running the analysis, ensure that you have the following skills:
 - `ETL(Extract transform load)`
 - `statistics`
 - `power point`
+
+
+- [Dataset](#dataset)
+
+  
+  
+
+  
 
 
