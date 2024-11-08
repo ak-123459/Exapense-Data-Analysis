@@ -1,6 +1,7 @@
-<div align="center"
+<div align="center">
  # <a href="https://ibb.co/MMxcGnf"><img src="https://i.ibb.co/MMxcGnf/money-bag.png" alt="money-bag" border="0" width="50" /></a>
 </div>
+
  # Expense Data Analysis
 
 This project is designed to analyze expense data to uncover trends, categorize spending, and provide financial insights. The analysis includes data preprocessing, data visualization, and trend analysis using Ms excel.
